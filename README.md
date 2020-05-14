@@ -1,1 +1,5 @@
-# npm-typescript-package-base
+### @yetric/measure npm package
+
+- Measure RageClicks
+- Measure Important Performance Metrics
+- TBD
